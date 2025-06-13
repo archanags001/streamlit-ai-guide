@@ -21,6 +21,12 @@ This guide is designed to run locally on your own computer, so you can explore, 
 
 Let’s build something great with Streamlit!
 
+## Key Features
+* **Interactive Chat Interface**: Enjoy a smooth, user-friendly chat experience right in your web browser.
+* **Conversational Memory**: Streamlit AI Guide remembers what we've talked about. If you ask a follow-up question, like "What about its arguments?" after discussing a function, it knows what "its" refers to. This makes our chats feel natural and easy.
+* **Context-Aware Responses**: All answers come from Streamlit’s official documentation, so it reducing AI "hallucinations" and ensuring you get accurate, reliable information
+* **On-Demand Code Examples**: Ask how to use something like st.slider, and the guide will give you a short, working code example you can try right away.
+* **Focused on Streamlit Only**: This guide is built for Streamlit. If you ask about math or another tool, it’ll tell you it doesn’t cover that. It sticks to what it knows best.
 
 ## Technical Stack
 
@@ -50,7 +56,7 @@ Let’s build something great with Streamlit!
 Here’s a quick overview of how this project is organized:
 
 ```markdown
-- streamlit-ai-guide/        
+streamlit-ai-guide/        
 ├── code/
 │   ├── app.py                # Your Streamlit app, which is the main program you run
 │   ├── data_collection.py    # The script that downloads Streamlit docs and builds the knowledge base

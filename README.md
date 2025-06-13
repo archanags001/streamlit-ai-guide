@@ -45,3 +45,20 @@ Let’s build something great with Streamlit!
 **Secret Management**  
 - **python-dotenv** – Keeps your API keys and environment variables safe on your local machine.
 
+## Repository Structure
+
+Here’s a quick overview of how this project is organized:
+
+```markdown
+- streamlit-ai-guide/        
+├── code/
+│   ├── app.py                # Your Streamlit app, which is the main program you run
+│   ├── data_collection.py    # The script that downloads Streamlit docs and builds the knowledge base
+│   └── rag_operations.py     # Contains the brain for the AI and how it finds answers
+├── .env.example              # A template for your private API key file (we do NOT upload your actual key!)
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+

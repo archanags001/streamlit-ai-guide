@@ -28,6 +28,8 @@ Let’s build something great with Streamlit!
 * **On-Demand Code Examples**: Ask how to use something like st.slider, and the guide will give you a short, working code example you can try right away.
 * **Focused on Streamlit Only**: This guide is built for Streamlit. If you ask about math or another tool, it’ll tell you it doesn’t cover that. It sticks to what it knows best.
 
+---
+
 ## Technical Stack
 
 **Frontend Interface**  
@@ -50,6 +52,7 @@ Let’s build something great with Streamlit!
 
 **Secret Management**  
 - **python-dotenv** – Keeps your API keys and environment variables safe on your local machine.
+---
 
 ## Repository Structure
 ```
@@ -63,6 +66,8 @@ streamlit-ai-guide/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+
+---
 ```
 ## Installation & Setup
 1. Clone the Repository
@@ -96,6 +101,12 @@ This step may take a few minutes. Once it finishes, you’ll find a new `data/ve
 * This command will open the **Streamlit AI Guide** in your web browser.
 * Now, you can start asking questions about Streamlit
 
+---
+
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/archanags001/streamlit-ai-guide/blob/main/LICENSE) file for details.
+
+## Contact
+archanags001@gmail.com
+

@@ -1,5 +1,6 @@
 # Streamlit AI Guide: AI-Powered Streamlit Documentation Tutor
 
+<img src="https://raw.githubusercontent.com/archanags001/streamlit-ai-guide/main/streamlit_ai_home.png" alt="Streamlit AI Guide Home Screen" width="800" height="450">
 ## Project Overview
 
 Welcome to **Streamlit AI Guide** – an interactive AI tutor built to help you learn Streamlit easily and efficiently.
@@ -103,6 +104,10 @@ This step may take a few minutes. Once it finishes, you’ll find a new `data/ve
 * Now, you can start asking questions about Streamlit
 
 ---
+
+Here's a quick example of how the **Streamlit AI Guide** can help you:
+
+<img src="https://raw.githubusercontent.com/archanags001/streamlit-ai-guide/main/imag_streamlitAI_result.png" alt="Streamlit AI Guide Interaction" width="700">
 
 ## License
 

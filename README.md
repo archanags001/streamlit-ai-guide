@@ -66,9 +66,9 @@ streamlit-ai-guide/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
----
 ```
+---
+
 ## Installation & Setup
 1. Clone the Repository
 ```

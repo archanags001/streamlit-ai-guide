@@ -12,7 +12,7 @@ This guide is designed to run locally on your own computer, so you can explore, 
 
 ---
 
-### Example Questions You Can Ask:
+#### Example Questions You Can Ask:
 - “Teach me the basics of Streamlit”
 - “How do I use `st.slider`?”
 - “What’s the best way to deploy a Streamlit app?”

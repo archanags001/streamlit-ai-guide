@@ -15,7 +15,7 @@ GEMINI_API_KEY = os.getenv("GOOGLE_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GOOGLE_API_KEY not found")
 
-vector_db_dir = "../data/vector_db_data"
+vector_db_dir = "./data/vector_db_data"
 doc_collection_name = "streamlit_documents"
 
 #Loads and transforms documentation

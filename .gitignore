@@ -1,0 +1,7 @@
+.env
+chroma_db_data/
+vector_db_data/
+.streamlit/
+__pycache__/
+*.pyc
+venv/

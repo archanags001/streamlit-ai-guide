@@ -52,7 +52,7 @@ Let’s build something great with Streamlit!
 - **python-dotenv** – Keeps your API keys and environment variables safe on your local machine.
 
 ## Repository Structure
-```markdown
+```
 streamlit-ai-guide/        
 ├── code/
 │   ├── app.py                # Your Streamlit app, which is the main program you run
@@ -66,18 +66,18 @@ streamlit-ai-guide/
 ```
 ## Installation & Setup
 1. Clone the Repository
-```bash
+```
 git clone https://github.com/archanags001/streamlit-ai-guide.git
 cd streamlit-ai-guide
 ```
 2. Install Dependencies
 Install all required Python packages from requirements.txt:
-```bash
+```
 pip install -r requirements.txt
 ```
 3.  Set Up Your Google Gemini API Key
 Create a .env file in the root directory and add your API key:
 ```
-    GOOGLE_API_KEY="YOUR_GEMINI_API_KEY_HERE"
+GOOGLE_API_KEY="YOUR_GEMINI_API_KEY_HERE"
 ```
 

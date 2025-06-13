@@ -64,4 +64,15 @@ streamlit-ai-guide/
 ├── README.md
 └── requirements.txt
 ```
+## Installation & Setup
+1. Clone the Repository
+```bash
+git clone https://github.com/archanags001/streamlit-ai-guide.git
+cd streamlit-ai-guide
+```
+2. Install Dependencies
+Install all required Python packages from requirements.txt:
+```bash
+pip install -r requirements.txt
+```
 

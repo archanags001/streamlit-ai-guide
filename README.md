@@ -31,7 +31,7 @@ Let’s build something great with Streamlit!
 ## Technical Stack
 
 **Frontend Interface**  
-- **Streamlit** – Simple and interactive UI built using Streamlit.
+- **Streamlit**[https://streamlit.io/] – Simple and interactive UI built using Streamlit.
 
 **AI Brain (RAG System)**  
 - **LangChain** – Orchestrates how the AI retrieves and responds with relevant information.

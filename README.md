@@ -34,13 +34,13 @@ Let’s build something great with Streamlit!
 - [Streamlit](https://streamlit.io/) – Simple and interactive UI built using Streamlit.
 
 **AI Brain (RAG System)**  
-- **LangChain** – Orchestrates how the AI retrieves and responds with relevant information.
+- [LangChain](https://www.langchain.com/) – Orchestrates how the AI retrieves and responds with relevant information.
 
-**Knowledge Bank**  
-- **ChromaDB** – Stores indexed Streamlit documentation for fast, accurate lookups.
+**Vector Database**  
+- [ChromaDB](https://www.trychroma.com/) – Stores indexed Streamlit documentation for fast, accurate lookups.
 
-**Language Model & Embeddings**  
-- **Google Gemini API**  
+**Large Language Model (LLM) & Embeddings**  
+- [Google Gemini API](https://ai.google.dev/)
   - `gemini-1.5-flash` – Handles conversation and answers.  
   - `embedding-001` – Converts text into embeddings for better understanding.
 
@@ -52,9 +52,6 @@ Let’s build something great with Streamlit!
 - **python-dotenv** – Keeps your API keys and environment variables safe on your local machine.
 
 ## Repository Structure
-
-Here’s a quick overview of how this project is organized:
-
 ```markdown
 streamlit-ai-guide/        
 ├── code/

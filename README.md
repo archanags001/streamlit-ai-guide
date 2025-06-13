@@ -91,6 +91,7 @@ This step downloads the Streamlit documentation. It then turns it into a searcha
 
 First, open your terminal. Make sure you are in your project folder, with your virtual environment ready. Then,
   ``` python code/data_collection.py ```
+  
 This step may take a few minutes. Once it finishes, you’ll find a new `data/vector_db_data` folder in your project. This folder holds all the knowledge your AI will use.
 
 5. Run the Streamlit AI Guide

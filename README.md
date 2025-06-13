@@ -27,10 +27,10 @@ Let’s build something great with Streamlit!
 * **Context-Aware Responses**: All answers come from Streamlit’s official documentation, so it reducing AI "hallucinations" and ensuring you get accurate, reliable information
 * **On-Demand Code Examples**: Ask how to use something like st.slider, and the guide will give you a short, working code example you can try right away.
 * **Focused on Streamlit Only**: This guide is built for Streamlit. If you ask about math or another tool, it’ll tell you it doesn’t cover that. It sticks to what it knows best.
-
+* **See the Source:** For answers that come from the documents, you can click "Show Retrieved Sources." This lets you see the exact parts the AI used. It helps you trust the answers. This source section hides itself if the AI cannot find info or cannot answer your question.
 ---
 
-## Technical Stack
+## Technologies Used 
 
 **Frontend Interface**  
 - [Streamlit](https://streamlit.io/) – Simple and interactive UI built using Streamlit.

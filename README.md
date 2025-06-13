@@ -80,4 +80,22 @@ Create a .env file in the root directory and add your API key:
 ```
 GOOGLE_API_KEY="YOUR_GEMINI_API_KEY_HERE"
 ```
+4. Build the Streamlit Knowledge Base
 
+This step downloads the Streamlit documentation. It then turns it into a searchable brain for your AI. You only need to do this **one time**. You might want to do it again if Streamlit's documentation changes a lot, or if you simply want to rebuild this brain.
+
+First, open your terminal. Make sure you are in your project folder, with your virtual environment ready. Then,
+  ``` python code/data_collection.py ```
+This step may take a few minutes. Once it finishes, you’ll find a new `data/vector_db_data` folder in your project. This folder holds all the knowledge your AI will use.
+
+5. Run the Streamlit AI Guide
+
+1. Open your terminal
+2. Run this command:
+ `streamlit run code/app.py`
+* This command will open the **Streamlit AI Guide** in your web browser.
+* Now, you can start asking questions about Streamlit
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/archanags001/streamlit-ai-guide/blob/main/LICENSE) file for details.

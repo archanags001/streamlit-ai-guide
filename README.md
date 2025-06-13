@@ -75,4 +75,9 @@ Install all required Python packages from requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
+3.  Set Up Your Google Gemini API Key
+Create a .env file in the root directory and add your API key:
+```
+    GOOGLE_API_KEY="YOUR_GEMINI_API_KEY_HERE"
+```
 

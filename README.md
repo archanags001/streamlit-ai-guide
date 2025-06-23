@@ -101,8 +101,8 @@ This step may take a few minutes. Once it finishes, you’ll find a new `data/ve
 1. Open your terminal
 2. Run this command:
  `streamlit run code/app.py`
-* This command will open the **Streamlit AI Guide** in your web browser.
-* Now, you can start asking questions about Streamlit
+This command will open the **Streamlit AI Guide** in your web browser.
+Now, you can start asking questions about Streamlit
 
 ---
 

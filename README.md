@@ -1,6 +1,6 @@
 # Streamlit AI Guide: AI-Powered Streamlit Documentation Tutor
 
-<img src="https://raw.githubusercontent.com/archanags001/streamlit-ai-guide/main/streamlit_ai_home.png" alt="Streamlit AI Guide Home Screen" width="700" height="600">
+<img src="https://raw.githubusercontent.com/archanags001/streamlit-ai-guide/main/images/streamlit_ai_home.png" alt="Streamlit AI Guide Home Screen" width="700" height="600">
 
 
 ## Project Overview

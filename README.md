@@ -59,8 +59,11 @@ Let’s build something great with Streamlit!
 
 ## Repository Structure
 ```
-streamlit-ai-guide/        
-├── code/
+streamlit-ai-guide/
+├── images/
+    ├── imag_streamlitAI_result.png
+│   └── streamlit_ai_home.png       
+├── src/
 │   ├── app.py                # Your Streamlit app, which is the main program you run
 │   ├── data_collection.py    # The script that downloads Streamlit docs and builds the knowledge base
 │   └── rag_operations.py     # Contains the brain for the AI and how it finds answers
